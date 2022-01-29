@@ -1,14 +1,18 @@
 baseURL: "https://jumaffre.github.io"
 languageCode: "en"
-title: "Julien Maffre"
+title: " "
 theme: "PaperMod"
 
 params:
   env: production
+  hideFooter: true
+  defaultTheme: light
+  disableThemeToggle: true
+
   profileMode:
     enabled: true
-    title: " "
-    subtitle: "Research Software Engineer @Microsoft"
+    title: "## Julien Maffre"
+    subtitle: "Research Software Engineer **[@Microsoft](https://www.microsoft.com/en-us/research/people/jumaffre/)**"
     # imageUrl: "<image link>"
     # imageTitle: " "
     # imageWidth: 120
