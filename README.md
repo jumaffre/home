@@ -1,2 +1,3 @@
-# home
-Personal website
+# Home
+
+Welcome.
