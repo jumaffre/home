@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     title: "## Julien Maffre"
-    subtitle: "Research Software Engineer **[@Microsoft](https://www.microsoft.com/en-us/research/people/jumaffre/)**"
+    subtitle: "Software Engineer **[@Wayve](https://wayve.ai/)**"
     # imageUrl: "<image link>"
     # imageTitle: " "
     # imageWidth: 120
@@ -21,3 +21,5 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/jumaffre"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/julien-maffre-22260a74/"
